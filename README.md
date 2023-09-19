@@ -1,1 +1,1 @@
-# FacilityLocationDataset
+# FacilityLocationBenchmarks
